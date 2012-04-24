@@ -43,7 +43,7 @@ A good example:
 
 * Start with a [modular scale](http://modularscale.com/). Choose an appropriate scale according to the content type. 
 * Avoid applying `font-size` declarations to large blocks of content
-* Try to use `em` for font-size` declarations as much as possible. Should calculations become tricky, use `rem` with `px` fallbacks
+* Try to use `em` for `font-size` declarations as much as possible. Should calculations become tricky, use `rem` with `px` fallbacks
 * Use `%` widths for layout style where possible (this will make adapting for various screen sizes easier). Depending on the layout, setting a `max-width` may be necessary.
 
 For example:
